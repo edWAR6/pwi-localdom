@@ -1,0 +1,30 @@
+{
+  "name": "pwi-localdom",
+  "homepage": "https://github.com/edWAR6/pwi-localdom",
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "polymer",
+    "dom",
+    "control",
+    "demo"
+  ],
+  "authors": [
+    "Eduardo Oviedo Blanco"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.2.1"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#~1.0.9"
+  }
+}
